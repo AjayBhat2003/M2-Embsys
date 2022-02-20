@@ -49,3 +49,28 @@ Smart watch need lithium polymer it need regular power charging.
 
 4)	Vibration Motor:
 It is needed for notification alert or any sensor reading alert.
+
+## Projector
+
+## SDRAM
+* This is random access memory which is synchronised with clock speed for microcontroller is optimized.
+* Helps to accept new data before the processing of previous data.
+
+## HDMI PORT
+* HDMI port is used ito transmit and receive both audio and video signals.
+
+## Storge Interface
+* USB port
+
+## AUDIO OUTPUT
+* Speaker
+
+## Temperature Sensor
+* Device overheating get detected .
+
+## microcontroller
+* Controll all input and output operations.
+* Perform all operations.
+
+## Backlight operations
+* Helps in enhancing the video output. 
