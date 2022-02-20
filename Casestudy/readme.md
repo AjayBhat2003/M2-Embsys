@@ -6,26 +6,25 @@ The Wearable gadgets is a form of embedded system that take real time inputs fro
 
 # Requirement:
 
-##	High Level Requirement:
+## High Level Requirement:
 
-•	To display the time .
-•	To track the different activities of the user like running, cycling, walking.
-•	To display different sensor readings.
+* To display the time .
+* To track the different activities of the user like running, cycling, walking.
+* To display different sensor readings.
 
-##	Low Level Requirement:
-
-•	Vibration alert for notification.
-•	LED Blinking while reading sensor readings.
+## Low Level Requirement:
+* Vibration alert for notification.
+* LED Blinking while reading sensor readings.
 
 
 # Component Description:
 
 1)	SENSOR:
-•	Humidity  & Temperature Sensor:
+*	Humidity  & Temperature Sensor:
           Measure and report the moisture and air temperature of surrounding.
-•	Accelerometer:
+*	Accelerometer:
           Measure how movement changes over time means for tracking whether   we are cycling, running.
-•	Blood Pressure sensor:
+*	Blood Pressure sensor:
           Used  to measure blood pressure and heartbeat.
 
 2)	 DISPLAY:
