@@ -1,4 +1,5 @@
 ## Smart Watch:
+![Block Diagram](https://user-images.githubusercontent.com/89115879/154841926-760b459a-d5ab-4294-bece-ff115d33d112.PNG)
 
 # Description:
 The Wearable gadgets is a form of embedded system that take real time inputs from mode  of operations and from sensors .
