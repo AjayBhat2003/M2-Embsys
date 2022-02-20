@@ -1,4 +1,5 @@
 ## Smart Watch:
+![Block Diagram](https://user-images.githubusercontent.com/89115879/154841926-760b459a-d5ab-4294-bece-ff115d33d112.PNG)
 
 # Description:
  The Wearable gadgets is a form of embedded system that take real time inputs from mode  of operations and from sensors .
@@ -6,7 +7,8 @@
 
 # Requirement:
 
-##	High Level Requirement:
+## High Level Requirement:
+
 
 *	To display the time .
 *	To track the different activities of the user like running, cycling, walking.
@@ -16,6 +18,15 @@
 
 *	Vibration alert for notification.
 *	LED Blinking while reading sensor readings.
+=======
+* To display the time .
+* To track the different activities of the user like running, cycling, walking.
+* To display different sensor readings.
+
+## Low Level Requirement:
+* Vibration alert for notification.
+* LED Blinking while reading sensor readings.
+
 
 
 # Component Description:
