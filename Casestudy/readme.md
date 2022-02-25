@@ -51,6 +51,7 @@ Smart watch need lithium polymer it need regular power charging.
 It is needed for notification alert or any sensor reading alert.
 
 ## Projector
+![PROJECTOR](https://user-images.githubusercontent.com/89115879/154846195-00f0a1be-d689-4ca8-a523-9226a645baad.PNG)
 
 ## SDRAM
 * This is random access memory which is synchronised with clock speed for microcontroller is optimized.
