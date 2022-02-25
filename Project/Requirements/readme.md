@@ -43,3 +43,4 @@ It is a device used for making and breaking of electric current in a circuit.
 
 
 ## 5W and 1H
+![5w1h](https://user-images.githubusercontent.com/89115879/155740904-7628a478-9fdf-4e05-87de-84852140f48d.PNG)
