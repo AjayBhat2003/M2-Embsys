@@ -42,4 +42,7 @@ It is a audio signlling device. It converts audio signal into sound signals.
 It is a device used for making and breaking of electric current in a circuit. 
 
 
-## 5W and 1H
+## 5W & 1H
+
+## SWOT Analysis
+![swot](https://user-images.githubusercontent.com/89115879/155755316-973a815e-50cb-4890-b48c-fbec72ecf9fb.PNG)
