@@ -39,12 +39,30 @@ It is used to detect the obstacle in front of the signal.It is digital output.
 It is a audio signlling device. It converts audio signal into sound signals.
 
 # Switch 
-It is a device used for making and breaking of electric current in a c
-## 5W & 1H
+It is a device used for making and breaking of electric current in a circuit.
+
 
 ## SWOT Analysis
 ![swot](https://user-images.githubusercontent.com/89115879/155755316-973a815e-50cb-4890-b48c-fbec72ecf9fb.PNG)
 =======
 ## 5W and 1H
 ![5w1h](https://user-images.githubusercontent.com/89115879/155740904-7628a478-9fdf-4e05-87de-84852140f48d.PNG)
->>>>>>> a81f4b9ff33082fbd7c99e8fdfe6a03fa399812e
+
+## High level Requirement
+
+|ID | HIGH LEVEL REQUIREMENT|
+|---|---|
+|HLR1|LCD to display the parking slot and its availability|
+|HLR2|Detection of car through sensor|
+|HLR3|Barrier for vehicle enetry using servo|
+
+## LOW level Requirement
+|ID|LOW LEVEL REQUIREMENT FOR HLR1| |ID|LOW LEVEL REQUIREMENT FOR HLR2|
+|---|---|-|---|---|
+|LLR1.1|LCD should display the parking system| |LLR2.1|Sensor should detect car in entrance|
+|LLR1.2|LCD Should display parking full if no space| |LLR2.2|Sensor should detect the car during exit|
+|LLR1.3|LCD should display slot empty| | | |
+|ID|LOW LEVEL REQUIREMNT FOR HLR3| | | |
+|LLR3.1|Servo rotate 90 degree when car slot available for entry| | | |
+|LLR3.2|Servo will rotate when vehicle want to exit|| | |
+|LLR3.3|Servo will not rotate if space is full| | | |
