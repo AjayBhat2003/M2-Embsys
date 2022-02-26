@@ -1,29 +1,29 @@
 ## Block Diagram and its explanation
 # Block Diagram
-![blockdiagram](https://user-images.githubusercontent.com/89115879/155825547-1f524476-cc36-4da2-a2fb-e3ed0f9b53f6.PNG)
+![bdig](https://user-images.githubusercontent.com/89115879/155825966-9f983b6c-ebef-4182-b551-7d65578f89e7.PNG)
 
 # Sensors
-* IR sensor
+# IR sensor
 There are 2 IR sensor used for entry and exit level of the system .For parking slot availability and exit of vehicle.
 IR sensor used to detect the vehicle .
 
-* Switch
+# Switch
 -To control servo open and close gate for vehicle entry.
 
 # Actuator
 
-* LCD Display
+# LCD Display
 -Display the parking availability and slot is full in the system.
 
-* Servo motor
+# Servo motor
 - Block the vehcle and opening gate for vehicle entry 
 
-* Buzzer
+# Buzzer
 - Intimate if slot is full.
 
 # MICRO CONTROLLER AND MEMORY
-* EEPROM
+# EEPROM
 - It is inside CONTROLLER
 
-* Microcontroller
+# Microcontroller
 - This will control all the part of our system.This has all interface of LCD ,sensors, Actuators.
