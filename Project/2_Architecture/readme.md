@@ -30,3 +30,9 @@ IR sensor used to detect the vehicle .
 
 ## FLOWCHART OF SYSTEM
 ![flowchart](https://user-images.githubusercontent.com/89115879/155827730-67e8bdeb-5c42-4e6f-8338-ec29e2c2e32a.PNG)
+
+## Behavioural Diagram
+# Circuit Diagram
+
+[Parking](https://user-images.githubusercontent.com/89115879/157040931-43b78dd5-c7ee-4c0d-81d1-5318f739c407.PNG)
+
