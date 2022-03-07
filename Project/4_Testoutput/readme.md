@@ -23,14 +23,15 @@
 
 
 # Test Output
+# For LCD
 ![test1](https://user-images.githubusercontent.com/89115879/157079668-64c03963-b300-467d-a165-9ed4f74946a1.PNG)
 
-
+# For Servo
 ![test2](https://user-images.githubusercontent.com/89115879/157079760-b64716e4-23a9-4c91-958a-03967a0eca78.PNG)
-
+# For iR Sensor and LED
 ![test3](https://user-images.githubusercontent.com/89115879/157080258-56306e98-9620-42e0-9612-de21c1d2caa0.PNG)
 
-
+# For Buzzer
 ![test4](https://user-images.githubusercontent.com/89115879/157080478-c0b273b4-e9b7-4f86-ac20-c26c82b812de.PNG)
 
 
