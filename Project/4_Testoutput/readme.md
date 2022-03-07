@@ -20,3 +20,9 @@
 |HLR3|
 |LLR1| SERVO Rotation for entry of vehicle |program execution|Servo rotate|Servo rotate|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
 |LLR2|Servo Rotation for exit of vehicle|program execution|Servo Rotate|Servo Rotate|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
+
+
+# Test Output
+![test1](https://user-images.githubusercontent.com/89115879/157079668-64c03963-b300-467d-a165-9ed4f74946a1.PNG)
+![test2](https://user-images.githubusercontent.com/89115879/157079760-b64716e4-23a9-4c91-958a-03967a0eca78.PNG)
+
