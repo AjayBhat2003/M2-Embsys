@@ -14,4 +14,9 @@
 |HLR1|
 |LLR1|LCD Display Slot availability|user input|Display welcome slot avaialble|welcome slot available|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
 |LLR2|LCD Display Slot full|user input|Display Sorry no slot|sorry no slot|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
-
+|HLR2|
+|LLR1|IR Sensor1 detect vehicle but slot is full led on|user input|led blink|led blink|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
+|LLR2|IR Sensor1 detect vehicle no slot available|program execution|BUZZER sound|Buzzer Sound|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
+|HLR3|
+|LLR1| SERVO Rotation for entry of vehicle |program execution|Servo rotate|Servo rotate|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
+|LLR2|Servo Rotation for exit of vehicle|program execution|Servo Rotate|Servo Rotate|![right](https://user-images.githubusercontent.com/89115879/157066408-8fe0a8c7-4d1c-42c3-b2ac-ee2f14991684.PNG)|
