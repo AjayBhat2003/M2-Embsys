@@ -34,4 +34,5 @@
 # For Buzzer
 ![test4](https://user-images.githubusercontent.com/89115879/157080478-c0b273b4-e9b7-4f86-ac20-c26c82b812de.PNG)
 
-
+# DESIGN
+![FINAL DESIGN](https://user-images.githubusercontent.com/89115879/157246802-a6562c66-3c42-48b3-95ce-395e35e4880c.PNG)
